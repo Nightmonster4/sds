@@ -1,0 +1,22 @@
+.topic{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#note{
+    color: black;
+    font-size: 20px;
+}
+
+canvas{
+    border-radius: 25px;
+    background-color: black;
+    border: 5px solid white;
+    margin-top: 90px;
+}
+
+body{
+    background-size: cover;
+}
